@@ -28,3 +28,9 @@
 1. Скачайте архив **`build.rar`** из репозитория.
 2. Распакуйте архив в любое удобное место.
 3. Перейдите в распакованную папку `build` и запустите исполняемый файл killPCtime.exe
+
+<p align="center">
+  <a href="https://github.com/Tengu-64/killPCtime/releases/tag/v1.0.0">
+    <img src="https://shields.io" alt="Прямое скачивание build.rar">
+  </a>
+</p>
